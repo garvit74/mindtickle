@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+PyPDF2
+python-multipart
+pinecone-client
+nltk
+python-dotenv
+transformers
+sentence-transformers
